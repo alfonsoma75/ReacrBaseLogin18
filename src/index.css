@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Height% */
+.gmc-height-full {
+  height: 100vh;
+}
+
+/***************
+ * HEADER MENU *
+ ***************/
+
+ /* LOGO TITLE LINK */
+.gmc-logo-title {
+  color: white;
+  text-decoration: none;
+}
+ .gmc-logo-title {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,31 @@
+.p-menubar {
+    height: 60px;
+    border: 1px solid #1995dc;
+}
+
+.p-menuitem-icon,
+.p-submenu-icon,
+.p-menu-list,
+.p-submenu-list,
+.p-menuitem-text,
+.p-menuitem-link,
+.p-menubar {
+    background-color: #2fa4e7 !important;
+    color: #fff !important;
+}
+
+.p-menubar-root-list .p-menuitem {
+    margin-left: 5px;
+}
+
+.p-menubar-root-list .p-menuitem .p-menuitem-link span,
+.p-menubar-root-list .p-menuitem .p-menuitem-link span.p-menuitem-text,
+.p-menuitem {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+
+.p-menubar-root-list .p-menuitem .p-menuitem-link:hover {
+    border: 1px solid #178acc !important;
+    background-color: #178acc !important;
+}

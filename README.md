@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Instalación base con sistema de login vía Django Restframework.
+
+- React 18.
+- React Router Dom 6.
+- Prime React 7.2.1.
+- Prime Flex 3.1.3.
+- Prime Icons 5.0.0.
+- React Transition Group 4.4.2.
+- Formik 2.2.9.
+- Yup 0.32.11.
 
 ## Available Scripts
 
